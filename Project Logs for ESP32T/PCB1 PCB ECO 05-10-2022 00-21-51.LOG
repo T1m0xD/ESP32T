@@ -1,0 +1,27 @@
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Added Component: Designator=IC2(SON65P200X200X60-7N-D)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "ADP122ACPZ-3.3-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/adp122acpz-3.3-r7/analog-devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/ADP122_123.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ADP122ACPZ-3.3-R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-ADP122ACPZ-3.3R7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Analog-Devices/ADP122ACPZ-33-R7?qs=BpaRKvA4VqFGxcUJVezYbA%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Testing Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=+5 Pin=IC2-4
+Added Pin To Net: NetName=+5 Pin=IC2-6
+Added Pin To Net: NetName=GND Pin=IC2-7
+Added Pin To Net: NetName=VCC Pin=IC2-1
+Added Net: Name=VCC
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 ESP32-C3FN4
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 ADP122ACPZ-3.3-R7
+Added Member To Class: ClassName=Sheet1 Member=Component J1 USB4500-03-1-A
+Added Member To Class: ClassName=Sheet1 Member=Component R1 CR0402-FX-5101GLF
+Added Member To Class: ClassName=Sheet1 Member=Component R2 CR0402-FX-5101GLF
+Added Room: Name=Sheet1

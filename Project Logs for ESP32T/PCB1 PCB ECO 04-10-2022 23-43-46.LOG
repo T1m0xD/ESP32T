@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator= NewDesignator=IC?
+Change Component Designator: OldDesignator= NewDesignator=J?
+Added Pin To Net: NetName=GND Pin=IC?-33
+Added Pin To Net: NetName=+5 Pin=J?-A4
+Added Pin To Net: NetName=+5 Pin=J?-A9
+Added Pin To Net: NetName=+5 Pin=J?-B4
+Added Pin To Net: NetName=+5 Pin=J?-B9
+Added Net: Name=+5
+Added Member To Class: ClassName=Sheet1 Member=Component IC? ESP32-C3FN4
+Added Member To Class: ClassName=Sheet1 Member=Component R? Res2
+Added Room: Name=Sheet1
