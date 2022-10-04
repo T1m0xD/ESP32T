@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator= NewDesignator=C1
+Change Component Designator: OldDesignator= NewDesignator=C2
+Change Component Designator: OldDesignator= NewDesignator=IC1
+Change Component Designator: OldDesignator= NewDesignator=IC2
+Change Component Designator: OldDesignator= NewDesignator=J1
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R2
+Added Member To Class: ClassName=Sheet1 Member=Component C1 JMR105CD7105KV-F
+Added Member To Class: ClassName=Sheet1 Member=Component C2 JMR105CD7105KV-F
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 ESP32-C3FN4
+Added Member To Class: ClassName=Sheet1 Member=Component IC2 ADP122ACPZ-3.3-R7
+Added Member To Class: ClassName=Sheet1 Member=Component J1 USB4500-03-1-A
+Added Member To Class: ClassName=Sheet1 Member=Component R1 CR0402-FX-5101GLF
+Added Member To Class: ClassName=Sheet1 Member=Component R2 CR0402-FX-5101GLF
+Added Room: Name=Sheet1
